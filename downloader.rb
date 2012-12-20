@@ -1,7 +1,6 @@
 !#/usr/local/bin/ruby
-# Created by Curtis Ekstrom
-# 29.11.2012
 # Quick script to download Railscasts episodes from RSS Feed
+# Based on https://github.com/donnykurnia/Railscasts-downloader
 
 require 'nokogiri'
 require 'open-uri'
