@@ -1,4 +1,4 @@
-!#/usr/local/bin/ruby
+#!/usr/bin/env ruby
 # Quick script to download Railscasts episodes from RSS Feed
 # Based on https://github.com/donnykurnia/Railscasts-downloader
 
